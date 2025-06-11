@@ -1,4 +1,4 @@
-https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E# 💫 About Me:
+# 💫 About Me:
 🔭 I’m Make Addon For Minecraft<br>👯 I'm Looking For Collaboration with my friend<br>🤝 I’m looking for help with Developer addon<br>🌱 I’m currently learning Code<br>💬 Ask me about Coding<br>
 
 
